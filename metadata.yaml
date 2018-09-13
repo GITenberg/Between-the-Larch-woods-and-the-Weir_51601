@@ -1,5 +1,8 @@
 _repo: Between-the-Larch-woods-and-the-Weir_51601
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51601-h/images/cover.jpg
 creator:
   author:
     agent_name: Klickmann, Flora
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8014'
     url: http://www.gutenberg.org/2009/agents/8014
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51601#Between-the-Larch-woods-and-the-Weir
 gutenberg_issued: '2016-03-30'
 gutenberg_type: Text
 identifiers:
